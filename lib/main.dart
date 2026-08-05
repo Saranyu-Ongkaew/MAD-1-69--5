@@ -1,3 +1,4 @@
+// แบบฝึกหัดที่ 1
 import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(title: const Text('แบบฝึกหัดที่ 1')),
         body: Padding(
           padding: const EdgeInsets.all(16.0),
-          child: Row(
+          child: Column(
             // ปรับเปลี่ยนค่าตามโจทย์ข้อ 1-7:
             // 1. MainAxisAlignment.start        (ชิดซ้าย)
             // 2. MainAxisAlignment.end          (ชิดขวา)
