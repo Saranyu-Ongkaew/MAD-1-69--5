@@ -1,4 +1,4 @@
-// แบบฝึกหัดที่ 1
+// แบบฝึกหัดที่ 2
 import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
